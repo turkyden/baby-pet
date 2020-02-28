@@ -7,7 +7,7 @@ A plateform designed for the information publish about pet service.
 ## Get Starter
 
 ``` cmd
-cd baby-pet
+cd baby-pet/client
 ```
 
 ``` npm
