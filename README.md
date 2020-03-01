@@ -2,7 +2,7 @@
 
 A plateform designed for the information publish about pet service.
 
-@ By Turkyden & TanWen
+@ By Turkyden & Liuliu
 
 ## Get Starter
 
@@ -22,4 +22,4 @@ npm run dev
 npm run build
 ```
 
-本地修改 Readme @小tan
+本地修改 Readme @小邓
